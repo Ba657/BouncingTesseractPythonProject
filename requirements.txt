@@ -1,1 +1,1 @@
-To open this python file you need to run this command at visual studio at terminal. pip install win32gui win32con. If you dont have visual studio install it at https://code.visualstudio.com/download
+pywin32
